@@ -1,8 +1,12 @@
 # Oleg Gorkov
 
+<div align="center">
+
 ### Architectural Visualization · Controlled AI Production · Workflow Engineering
 
 **Building controlled, reproducible AI workflows for professional architectural visualization.**
+
+</div>
 
 I work at the intersection of **architectural visualization, AI-assisted production and workflow engineering** — developing systems that improve visual quality while preserving architectural geometry, camera, proportions and design intent.
 
