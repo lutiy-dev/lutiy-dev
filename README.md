@@ -48,6 +48,18 @@ Interactive bilingual PWA covering workflow architecture, SDXL, FLUX, ControlNet
 
 ---
 
+### [ARCHVIZ · Prompt Studio](https://github.com/lutiy-dev/ARCHVIZ-Prompt-Dictionary-Builder)
+
+**Bilingual structured prompt composer for controlled AI-assisted architectural visualization.**
+
+Reusable prompt blocks, material/light/atmosphere presets, conflict checks and reproducible prompt assembly for production-oriented Archviz workflows.
+
+`Prompt Engineering` · `Archviz` · `ComfyUI` · `PWA`
+
+**[Open Prompt Studio](https://lutiy-dev.github.io/ARCHVIZ-Prompt-Dictionary-Builder/)** · **[View Repository](https://github.com/lutiy-dev/ARCHVIZ-Prompt-Dictionary-Builder)**
+
+---
+
 ## Current Focus
 
 **Geometry Preservation** · **Image-to-Image** · **Material Control** · **Automated Masking** · **People Integration** · **Final Polish** · **Production QC**
