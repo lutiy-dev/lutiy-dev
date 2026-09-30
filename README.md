@@ -56,6 +56,10 @@ Interactive bilingual PWA covering workflow architecture, SDXL, FLUX, ControlNet
 
 **Bilingual structured prompt composer for controlled AI-assisted architectural visualization.**
 
+<p>
+  <img src="assets/prompt-studio-constructor-preview.png" alt="ARCHVIZ Prompt Studio — structured prompt constructor preview" width="100%">
+</p>
+
 Reusable prompt blocks, material/light/atmosphere presets, conflict checks and reproducible prompt assembly for production-oriented Archviz workflows.
 
 `Prompt Engineering` · `Archviz` · `ComfyUI` · `PWA`
