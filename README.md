@@ -28,6 +28,10 @@ I work at the intersection of **architectural visualization, AI-assisted product
 
 **Architecture-preservation QC for AI-assisted architectural visualization.**
 
+<p>
+  <img src="assets/variant02_workflow_preview.jpg" alt="ARCHVIZ Geometry Guardian — Variant 02 workflow preview" width="100%">
+</p>
+
 Geometry validation, Reference Passport, image-based evidence and explicit confidence/coverage for controlled AI production.
 
 `Python` · `Computer Vision` · `Geometry QC` · `AI Production`
