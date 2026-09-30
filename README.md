@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-hero.png" alt="Oleg Gorkov — Architectural Visualization and Controlled AI Production" width="100%">
+</p>
+
 # Oleg Gorkov
 
 <div align="center">
