@@ -36,6 +36,10 @@ Geometry validation, Reference Passport, image-based evidence and explicit confi
 
 **Production-focused ComfyUI workflow engineering for Architectural Visualization.**
 
+<p>
+  <img src="assets/technical-manual-preview.jpg" alt="ARCHVIZ × AI Technical Workflow Manual — interface preview" width="100%">
+</p>
+
 Interactive bilingual PWA covering workflow architecture, SDXL, FLUX, ControlNet, masking, PEOPLE/PPL, diagnostics, practical labs and reproducible production methodology.
 
 `ComfyUI` · `FLUX` · `SDXL` · `ControlNet` · `PWA`
