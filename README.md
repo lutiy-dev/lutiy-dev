@@ -24,6 +24,22 @@ I work at the intersection of **architectural visualization, AI-assisted product
 
 ## Selected Work
 
+### [ComfyUI Universal Workflow Controller](https://github.com/lutiy-dev/ComfyUI-Universal-Workflow-Controller)
+
+**Model-agnostic workflow control for ComfyUI Nodes 2.0.**
+
+<p>
+  <img src="assets/uwc-banner.svg" alt="ComfyUI Universal Workflow Controller — Stage Controller and Exclusive Switch" width="100%">
+</p>
+
+Universal Stage Controller and Exclusive Switch for binding arbitrary nodes, Mute/Bypass control, SOLO/RESTORE, exclusive branch switching, persistence and missing-target recovery.
+
+`ComfyUI` · `Nodes 2.0` · `Workflow Control` · `Frontend Extension` · `MIT`
+
+**[View Repository](https://github.com/lutiy-dev/ComfyUI-Universal-Workflow-Controller)**
+
+---
+
 ### [ARCHVIZ Geometry Guardian](https://github.com/lutiy-dev/ARCHVIZ-Geometry-Guardian)
 
 **Architecture-preservation QC for AI-assisted architectural visualization.**
