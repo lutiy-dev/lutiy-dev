@@ -40,6 +40,22 @@ Universal Stage Controller and Exclusive Switch for binding arbitrary nodes, Mut
 
 ---
 
+### [ARCHVIZ ID Mask Toolkit](https://github.com/lutiy-dev/ComfyUI-ARCHVIZ-ID-Mask)
+
+**Deterministic Scene Truth masking from Color ID / Material ID / Object ID passes for ComfyUI.**
+
+<p>
+  <img src="assets/id-mask-toolkit-banner.svg" alt="ARCHVIZ ID Mask Toolkit — palette-driven production masks" width="100%">
+</p>
+
+Pick exact ID colors once, reuse them as named palette entries, generate independent masks, and combine multiple IDs into semantic groups such as Facade, Road or Greenery.
+
+`ComfyUI` · `Archviz` · `Color ID` · `Material ID` · `Masking` · `Controlled AI`
+
+**[View Repository](https://github.com/lutiy-dev/ComfyUI-ARCHVIZ-ID-Mask)**
+
+---
+
 ### [ARCHVIZ Geometry Guardian](https://github.com/lutiy-dev/ARCHVIZ-Geometry-Guardian)
 
 **Architecture-preservation QC for AI-assisted architectural visualization.**
